@@ -1,0 +1,18 @@
+.header{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.add{
+  font-size: large;
+  border-radius: 3px;
+  color: brown;
+  cursor: pointer;
+}
+.back{
+  font-size: large;
+  border-radius: 3px;
+color: darkblue;
+cursor: pointer;
+
+}
